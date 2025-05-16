@@ -52,7 +52,7 @@ const MOCK_STOCKS: Record<string, StockData> = {
     returnOnEquity: 38.41,
     priceToBook: 11.83
   },
-  BRK.B: {
+  "BRK.B": {
     symbol: "BRK.B",
     name: "Berkshire Hathaway Inc.",
     price: 412.87,
